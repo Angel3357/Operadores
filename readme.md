@@ -1,0 +1,3 @@
+Inicio
+Mostra resultado
+Fin
